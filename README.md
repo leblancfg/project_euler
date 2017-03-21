@@ -1,5 +1,5 @@
 # project_euler
-Jupyter Notebook for solutions to the Project Euler problems, 1 to 50.
+Long-running Jupyter Notebook for solutions to the Project Euler problems using Python built-ins, 1 to 50. 
 
 ![Project Euler status](https://projecteuler.net/profile/leblancfg.png)
 
